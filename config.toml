@@ -11,7 +11,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = "Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience <br> <br> 6-10 July 2020 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br><br> krembilneuroinformatics.ca <br> <br> <a href='https://edc.camhx.ca/redcap/surveys/?s=8CPANPDHDJ'>Apply Here</a><br> "
+  description = "Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience <br> <br> 6-10 July 2020 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br><br> krembilneuroinformatics.ca <br> <br> <a href='https://edc.camhx.ca/redcap/surveys/?s=8CPANPDHDJ'>Register Here</a><br> "
   #description = "<br> <br> 6-12 July 2020 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br>"
   #description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
   #description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
