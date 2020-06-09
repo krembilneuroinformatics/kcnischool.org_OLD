@@ -4,7 +4,7 @@ weight = 20
 draft = false
 +++
 
-[Visit the KCNI website](krembilneuroinformatics.ca)
+[Visit the KCNI website](www.krembilneuroinformatics.ca)
 
 
 ## Solving the human question of mental health
