@@ -15,5 +15,6 @@ draft = false
 - Bayesian models of **perception and learning;** applications to neuroimaging and electroencephalography
 - **Population-based subtyping** and the identification of genetically determined neural dynamics in clinical cohorts  
 - **Putting it all together:** using whole-person data from each scale to identify subtypes of psychiatric patients with
-distinct symptomatic and functional trajectories using biostatistical approaches  
+distinct symptomatic and functional trajectories using biostatistical approaches 
+- **Ethics, Fairness and Health Equity:** Explore the ethical dimensions of data collection, curation and model building and their impact on fairness and health equity using concrete tools and best practices 
 

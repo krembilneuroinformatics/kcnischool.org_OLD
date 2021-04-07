@@ -7,7 +7,7 @@ draft = false
 {{< figure class="image main" src="/images/computational_genomics.jpg" >}}
 
 
-The **Krembil Centre for Neuroinformatics** is excited to offer a ***five-day summer course on the
+The **Krembil Centre for Neuroinformatics** is excited to offer a *** two-week summer course on the
 integration of multi-scale neuroscience data*** - encompassing **genetics**, **brain structure and function**, and **cognition** –
 designed to introduce participants to the concepts and methods behind psychiatric neuroinformatics. Daily sessions will
 include both didactic teaching and hands-on tutorial components aimed at engaging critical thinking and developing
@@ -22,7 +22,9 @@ University of Toronto’s Department of Psychiatry.
 
 This unique course will prepare participants to handle and analyze multiple data types in hopes that their own research
 may benefit from collaborative, multi-modal approaches. Critically, participants will also learn about best practices for
-data management and quality control in the context of integrative analysis.
+data management and quality control in the context of integrative analysis as well as ethical considerations. Students will explore the ethical dimensions of data collection, curation and model building and their impact on fairness and health equity using concrete tools and best practices
+
+*** Lesson content (recordings and code) from last years summer course are available [here](https://github.com/krembilneuroinformatics/kcni-school-lessons)***
 
 
 

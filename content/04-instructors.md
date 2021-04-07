@@ -15,7 +15,9 @@ Dr. Leon French
 Dr. John Griffiths  
 Dr. Etay Hay  
 Dr. Shreejoy Tripathy   
-Dr. Joanna Yu  
+Dr. Joanna Yu 
+Dr. Laura Sikstrom
+Dr. Daniel Buchman 
 
 
 
